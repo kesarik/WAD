@@ -1,0 +1,4 @@
+1)npm --version //check the node.js version2)
+2)npm install -g @angular/cli@latest
+3)ng new part-c
+4)ng serve

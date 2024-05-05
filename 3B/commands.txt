@@ -1,0 +1,10 @@
+1)create package json file using=npm init
+2)in mongodb compass=
+    show dbs
+    use student
+    db.createCollection('profile')
+    db.profile.insertOne({name:"kesari",email:"abc@gmail.com",city:"pune"})
+3)in vs code=>create index.js and mongodb.js file
+4)installation in vs code=> npm i mongodb
+                            npm i express
+5)run=node index.js
